@@ -5,5 +5,6 @@ public class ContactPage {
     //facebook
     //IG
     //so on
+    //email
 
 }
